@@ -1,6 +1,6 @@
 # Pdf2htmlDocker
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/pdf2html_docker`. To experiment with that code, run `bin/console` for an interactive prompt. This gem is the same as [pdf2html](https://github.com/oshchyhol/pdf2html) but instead of requiring the library **Pdf2HtmlEX** library installed in the OS host, just need **docker**.
+This gem is the same as [pdf2html](https://github.com/oshchyhol/pdf2html) but instead of requiring the library **Pdf2HtmlEX** library installed in the OS host, just need **docker**.
 
 ## Installation
 
