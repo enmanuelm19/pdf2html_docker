@@ -2,7 +2,7 @@ require 'terrapin'
 require 'pdf2html_docker/option_builder'
 
 module Pdf2htmlDocker
-  DOCKER_COMMAND = 'docker run -ti -v'.freeze
+  DOCKER_COMMAND = 'docker run -v'.freeze
   DOCKER_IMAGE = 'bwits/pdf2htmlex'.freeze
   BASE_COMMAND = 'pdf2htmlEX'.freeze
   DOCKER_VOLUME = ':/pdf'.freeze
